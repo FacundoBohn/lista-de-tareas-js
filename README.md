@@ -22,7 +22,8 @@ Pequeña aplicación para agregar, completar y eliminar tareas usando HTML, CSS 
 [https://FacundoBohn.github.io/lista-de-tareas-js/](https://FacundoBohn.github.io/lista-de-tareas-js/)
 
 ## Captura de pantalla
-![Captura de pantalla](./screenshot.png)
+
+<img width="996" height="814" alt="image" src="https://github.com/user-attachments/assets/54078f72-e5a1-420e-9ce2-7e125a6f12cd" />
 
 ---
 
